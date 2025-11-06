@@ -1,0 +1,14 @@
+{
+  "BOT_TOKEN": "8247038857:AAGAnkaR9YlnYXZCKAbCpPHwg0N_o9XO0_c",
+  "ADMIN_IDS": [7079099305],
+  "SEND_RETRY_COUNT": 3,
+  "SEND_RETRY_DELAY": 2
+  ,
+  "ANTI_BAN": {
+    "inter_send_delay": 0.35,
+    "jitter": 0.15,
+    "per_channel_cooldown": 10,
+    "remove_on_forbidden": true,
+    "forbidden_threshold": 3
+  }
+}

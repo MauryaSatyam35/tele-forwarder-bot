@@ -1,0 +1,324 @@
+[
+  {
+    "type": "broadcast",
+    "from_chat_id": 7232222494,
+    "message_id": 14,
+    "results": [
+      {
+        "channel": "unbansorbans",
+        "status": "failed"
+      }
+    ],
+    "origin_admin": 7232222494,
+    "time": "2025-11-03T18:16:31.598331+00:00"
+  },
+  {
+    "type": "broadcast",
+    "from_chat_id": 7232222494,
+    "message_id": 19,
+    "results": [
+      {
+        "channel": "@unbansorbans",
+        "status": "ok"
+      }
+    ],
+    "origin_admin": 7232222494,
+    "time": "2025-11-03T18:18:47.957748+00:00"
+  },
+  {
+    "type": "broadcast",
+    "from_chat_id": 7232222494,
+    "message_id": 22,
+    "results": [
+      {
+        "channel": "@unbansorbans",
+        "status": "ok"
+      }
+    ],
+    "origin_admin": 7232222494,
+    "time": "2025-11-03T18:18:57.509137+00:00"
+  },
+  {
+    "type": "broadcast",
+    "from_chat_id": 7232222494,
+    "message_id": 27,
+    "results": [
+      {
+        "channel": "@unbansorbans",
+        "status": "ok"
+      }
+    ],
+    "origin_admin": 7232222494,
+    "time": "2025-11-03T18:29:14.356959+00:00"
+  },
+  {
+    "type": "broadcast",
+    "from_chat_id": 7079099305,
+    "message_id": 14,
+    "results": [
+      {
+        "channel": "@unbansorbans",
+        "status": "failed"
+      }
+    ],
+    "origin_admin": 7079099305,
+    "time": "2025-11-04T13:42:24.968790+00:00"
+  },
+  {
+    "type": "broadcast",
+    "from_chat_id": 7079099305,
+    "message_id": 36,
+    "results": [
+      {
+        "channel": "@ArtOfProfits",
+        "status": "ok"
+      },
+      {
+        "channel": "@tradecoverage",
+        "status": "ok"
+      },
+      {
+        "channel": "@TheMoneyDesigner",
+        "status": "ok"
+      },
+      {
+        "channel": "@miraicapital",
+        "status": "ok"
+      }
+    ],
+    "origin_admin": 7079099305,
+    "time": "2025-11-04T13:55:00.148224+00:00"
+  },
+  {
+    "type": "broadcast",
+    "from_chat_id": 7079099305,
+    "message_id": 39,
+    "results": [
+      {
+        "channel": "@ArtOfProfits",
+        "status": "ok"
+      },
+      {
+        "channel": "@tradecoverage",
+        "status": "ok"
+      },
+      {
+        "channel": "@TheMoneyDesigner",
+        "status": "ok"
+      },
+      {
+        "channel": "@miraicapital",
+        "status": "ok"
+      }
+    ],
+    "origin_admin": 7079099305,
+    "time": "2025-11-04T13:55:08.312497+00:00"
+  },
+  {
+    "type": "broadcast",
+    "from_chat_id": 7079099305,
+    "message_id": 42,
+    "results": [
+      {
+        "channel": "@ArtOfProfits",
+        "status": "ok"
+      },
+      {
+        "channel": "@tradecoverage",
+        "status": "ok"
+      },
+      {
+        "channel": "@TheMoneyDesigner",
+        "status": "ok"
+      },
+      {
+        "channel": "@miraicapital",
+        "status": "ok"
+      }
+    ],
+    "origin_admin": 7079099305,
+    "time": "2025-11-04T13:55:19.118053+00:00"
+  },
+  {
+    "type": "broadcast",
+    "from_chat_id": 7079099305,
+    "message_id": 45,
+    "results": [
+      {
+        "channel": "@ArtOfProfits",
+        "status": "ok"
+      },
+      {
+        "channel": "@tradecoverage",
+        "status": "ok"
+      },
+      {
+        "channel": "@TheMoneyDesigner",
+        "status": "ok"
+      },
+      {
+        "channel": "@miraicapital",
+        "status": "ok"
+      }
+    ],
+    "origin_admin": 7079099305,
+    "time": "2025-11-04T13:55:33.018059+00:00"
+  },
+  {
+    "type": "broadcast",
+    "from_chat_id": 7079099305,
+    "message_id": 48,
+    "results": [
+      {
+        "channel": "@ArtOfProfits",
+        "status": "ok"
+      },
+      {
+        "channel": "@tradecoverage",
+        "status": "ok"
+      },
+      {
+        "channel": "@TheMoneyDesigner",
+        "status": "ok"
+      },
+      {
+        "channel": "@miraicapital",
+        "status": "ok"
+      }
+    ],
+    "origin_admin": 7079099305,
+    "time": "2025-11-04T13:56:07.000517+00:00"
+  },
+  {
+    "type": "broadcast",
+    "from_chat_id": 7079099305,
+    "message_id": 57,
+    "results": [
+      {
+        "channel": "@ArtOfProfits",
+        "status": "ok"
+      },
+      {
+        "channel": "@tradecoverage",
+        "status": "ok"
+      },
+      {
+        "channel": "@TheMoneyDesigner",
+        "status": "ok"
+      },
+      {
+        "channel": "@miraicapital",
+        "status": "ok"
+      },
+      {
+        "channel": "@civilized_trader",
+        "status": "ok"
+      },
+      {
+        "channel": "@valorxtrade",
+        "status": "ok"
+      }
+    ],
+    "origin_admin": 7079099305,
+    "time": "2025-11-04T13:57:09.545984+00:00"
+  },
+  {
+    "type": "broadcast",
+    "from_chat_id": 7079099305,
+    "message_id": 60,
+    "results": [
+      {
+        "channel": "@ArtOfProfits",
+        "status": "ok"
+      },
+      {
+        "channel": "@tradecoverage",
+        "status": "ok"
+      },
+      {
+        "channel": "@TheMoneyDesigner",
+        "status": "ok"
+      },
+      {
+        "channel": "@miraicapital",
+        "status": "ok"
+      },
+      {
+        "channel": "@civilized_trader",
+        "status": "ok"
+      },
+      {
+        "channel": "@valorxtrade",
+        "status": "ok"
+      }
+    ],
+    "origin_admin": 7079099305,
+    "time": "2025-11-04T13:57:48.406675+00:00"
+  },
+  {
+    "type": "broadcast",
+    "from_chat_id": 7079099305,
+    "message_id": 63,
+    "results": [
+      {
+        "channel": "@ArtOfProfits",
+        "status": "ok"
+      },
+      {
+        "channel": "@tradecoverage",
+        "status": "ok"
+      },
+      {
+        "channel": "@TheMoneyDesigner",
+        "status": "ok"
+      },
+      {
+        "channel": "@miraicapital",
+        "status": "ok"
+      },
+      {
+        "channel": "@civilized_trader",
+        "status": "ok"
+      },
+      {
+        "channel": "@valorxtrade",
+        "status": "ok"
+      }
+    ],
+    "origin_admin": 7079099305,
+    "time": "2025-11-04T14:02:49.405189+00:00"
+  },
+  {
+    "type": "broadcast",
+    "from_chat_id": 7079099305,
+    "message_id": 224,
+    "results": [
+      {
+        "channel": "@ArtOfProfits",
+        "status": "ok"
+      },
+      {
+        "channel": "@tradecoverage",
+        "status": "ok"
+      },
+      {
+        "channel": "@TheMoneyDesigner",
+        "status": "ok"
+      },
+      {
+        "channel": "@miraicapital",
+        "status": "ok"
+      },
+      {
+        "channel": "@civilized_trader",
+        "status": "ok"
+      },
+      {
+        "channel": "@valorxtrade",
+        "status": "ok"
+      }
+    ],
+    "origin_admin": 7079099305,
+    "time": "2025-11-06T13:44:03.443100+00:00"
+  }
+]
